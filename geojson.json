@@ -247,9 +247,9 @@
         ]
       },
       "style": {
-        "fill":"red",
-        "stroke-width":"3",
-        "fill-opacity":0.6
+        "fill":"#EF476F",
+        "stroke-width":"2",
+        "fill-opacity":0.2
       }
     },
     {
@@ -468,6 +468,11 @@
             ]
           ]
         ]
+      },
+      "style": {
+        "fill":"#EF476F",
+        "stroke-width":"2",
+        "fill-opacity":0.2
       }
     },
     {
@@ -708,6 +713,11 @@
             ]
           ]
         ]
+      },
+      "style": {
+        "fill":"#EF476F",
+        "stroke-width":"2",
+        "fill-opacity":0.2
       }
     },
     {
